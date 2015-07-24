@@ -1,6 +1,6 @@
 {
   "name": "dts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "concrete data type implementations",
   "author": "Gabriel Lebec <glebec@gmail.com> (https://github.com/glebec)",
   "repository": {
@@ -32,8 +32,7 @@
     "structures"
   ],
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "^0.24.1",
     "mocha": "^2.2.5"
