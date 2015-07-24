@@ -1,0 +1,41 @@
+{
+  "name": "dst",
+  "version": "0.1.0",
+  "description": "concrete data type implementations",
+  "author": "Gabriel Lebec <glebec@gmail.com> (https://github.com/glebec)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/glebec/dst.git"
+  },
+  "homepage": "https://github.com/glebec/dst",
+  "bugs": "https://github.com/glebec/dst/issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint lib"
+  },
+  "keywords": [
+    "ADT",
+    "ADTs",
+    "data structure",
+    "data structures",
+    "data type",
+    "data types",
+    "queue",
+    "stack",
+    "tree",
+    "heap",
+    "graph",
+    "trie",
+    "list",
+    "linked list",
+    "structures"
+  ],
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^0.24.1",
+    "mocha": "^2.2.5"
+  }
+}
