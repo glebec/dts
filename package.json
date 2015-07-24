@@ -1,14 +1,14 @@
 {
-  "name": "dst",
+  "name": "dts",
   "version": "0.1.0",
   "description": "concrete data type implementations",
   "author": "Gabriel Lebec <glebec@gmail.com> (https://github.com/glebec)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/glebec/dst.git"
+    "url": "git://github.com/glebec/dts.git"
   },
-  "homepage": "https://github.com/glebec/dst",
-  "bugs": "https://github.com/glebec/dst/issues",
+  "homepage": "https://github.com/glebec/dts",
+  "bugs": "https://github.com/glebec/dts/issues",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
